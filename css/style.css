@@ -1,0 +1,39 @@
+* {
+	font-family: sans-serif;
+}
+
+body {
+	background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.login-panel {
+	border: solid black;
+	border-radius: 50px;
+	max-width: 350px;
+	max-height: 450px;
+	text-align: center;
+	margin: auto;
+	
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
+
+input {
+	border-radius: 30px;
+	border: none;
+	height: 45px;
+	width: 250px;
+	background-color: rgba(204,204,204,0.4);
+	
+	font-size: 15px;
+	color: #f3f3f3;
+	text-indent: 20px;
+	margin-bottom: 20px;
+}
