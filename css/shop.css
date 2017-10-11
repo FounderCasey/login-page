@@ -1,0 +1,81 @@
+* {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(252,131,131);
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+li a:hover {
+  background-color: white;
+  color: rgb(252,131,131);
+}
+
+/* ---- Column & Rows ---- */
+
+.row {
+  border: solid blue;
+  margin: auto;
+}
+
+.column-a {
+  border: dashed green;
+  width: 50%;
+  float: left;
+}
+
+.column-b {
+  border: dashed pink;
+  width: 50%;
+  margin-left: 15%;
+}
+
+.thumbnail {
+  width: 75%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
