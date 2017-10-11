@@ -71,6 +71,7 @@ li a:hover {
 .description {
   width: 95%;
   margin: auto;
+  padding-top: 25px;
 }
 
 .info {
