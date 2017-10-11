@@ -40,7 +40,7 @@ li a:hover {
 
 .row {
   width: 100%;
-  height: 450px;
+  height: 500px;
   margin: auto;
 }
 
@@ -49,10 +49,16 @@ li a:hover {
   background-size: cover;
 }
 
+#assorted-flowers {
+  background-image: url(images/assorted.jpg);
+  background-size: cover;
+}
+
 .column-a {
   width: 50%;
   height: 100%;
   float: left;
+  position: relative;
 }
 
 .column-b {
@@ -65,12 +71,16 @@ li a:hover {
 .description {
   width: 95%;
   margin: auto;
-  border: solid;
 }
 
 .info {
-  border: solid;
-  width: 33%;
+  width: 25%;
+  color: white;
+  background-color: rgb(252,131,131);
+  text-align: center;
+  border-radius: 0 5px 5px 0;
+  position: absolute;
+  bottom: 15px;
 }
 
 .info p {

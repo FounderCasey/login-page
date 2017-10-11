@@ -30,7 +30,7 @@ body {
 
 #logo-image:hover {
   transform: rotate3d(10,122,32,360deg);
-  transition: 10s;
+  transition: 5s;
 }
 
 input {
