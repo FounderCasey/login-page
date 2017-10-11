@@ -65,6 +65,12 @@ button:active {
   background-color: rgba(204,204,204,0.1);
 }
 
+#signup-button {
+  margin-top: 10px;
+  background-color: rgba(252,131,131,0.0);
+  border: solid rgba(252,131,131,0.8);
+}
+
 hr {
   background-color: rgba(204,204,204,0.5);
   width: 100px;
