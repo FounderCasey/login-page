@@ -80,3 +80,13 @@ h1 {
 .question p {
   font-size: 20px;
 }
+
+footer {
+  color: rgba(0,0,0,0.3);
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
