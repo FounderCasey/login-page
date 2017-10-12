@@ -29,6 +29,9 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
   font-weight: bolder;
+  font-size: 20px;
+  font-weight: lighter;
+  letter-spacing: 2px;
 }
 
 li a:hover {
@@ -117,4 +120,37 @@ li a:hover {
 
 .thumbnail {
   width: 100%;
+}
+
+button {
+  border-radius: 30px;
+  border: none;
+  height: 45px;
+  width: 250px;
+  font-size: 20px;
+  outline: none;
+  background-color: rgb(252,131,131);
+  color: white;
+}
+
+button:active {
+  border: solid rgb(252,131,131);
+  color: rgb(252,131,131);
+  background-color: rgba(204,204,204,0.1);
+}
+
+/* ---- Text styling ---- */
+
+.description h2 {
+  font-size: 40px;
+  font-weight: lighter;
+  margin-bottom: 0;
+}
+
+.description h3 {
+  font-size: 25px;
+  font-weight: lighter;
+  font-style: italic;
+  margin-top: 10px;
+  margin-bottom: 0;
 }
