@@ -68,6 +68,15 @@ h1 {
 }
 
 .question {
-  border: dashed magenta;
   text-align: center;
+  width: 75%;
+  margin: auto;
+}
+
+.question h2 {
+  font-size: 30px;
+}
+
+.question p {
+  font-size: 20px;
 }
