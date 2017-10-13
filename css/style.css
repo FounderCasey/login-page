@@ -114,9 +114,17 @@ li a:hover {
   color: rgb(252,131,131);
 }
 
-/* ---- CONTACT FORM ---- */
+/* ---- CONTACT ---- */
 
+#contact-container {
+  border: solid;
+  width: 75%;
+  margin: auto;
+}
 
+.contact-input {
+  width: 75%;
+}
 
 
 
