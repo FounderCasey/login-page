@@ -120,11 +120,14 @@ li a:hover {
   border: solid;
   width: 75%;
   margin: auto;
+	text-align: center;
 }
 
 .contact-input {
   width: 75%;
 }
+
+
 
 /* ---- FOOTER ---- */
 
