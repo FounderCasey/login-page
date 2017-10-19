@@ -132,12 +132,14 @@ footer {
   border: solid;
   width: 75%;
   margin: auto;
+	text-align: center;
 }
 
 .contact-input {
   width: 75%;
 }
 
+<<<<<<< HEAD
 /* ---- ABOUT/FAQ ---- */
 .header {
   border: none;
@@ -147,6 +149,11 @@ footer {
   background-size: cover;
   position: relative;
 }
+=======
+
+
+/* ---- FOOTER ---- */
+>>>>>>> 320427a4914a293d34cd496663702bd3e37505ae
 
 .header-info {
   text-align: center;
